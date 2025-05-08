@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "Promptly",
+  "version": "1.0.0",
+  "description": "在 ChatGPT 右侧侧边栏展示精选图片案例，点击copy自动复制提示词。",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://chatgpt.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "sidebar.html",
+        "data.js",
+        "credits.js",
+        "sidebar.js",
+        "style.css",
+        "i18n.js",
+        "zh-CNdata.js",
+        "en-USdata.js",
+        "ja-JPdata.js",
+        "ko-KRdata.js"
+      ],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "点击打开插件"
+  }
+}
