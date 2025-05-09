@@ -763,7 +763,7 @@ window.GPT4O_EXAMPLES = [
     "name": "特色城市天气预报",
     "author": "@dotey",
     "url": "https://x.com/dotey/status/1917713810346872902",
-    "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/examples/example_city_weather_forecast.jpeg",
+    "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/82/example.png",
     "alt": "特色城市天气预报，包含天气图标、温度和城市地标",
     "prompt": "创建一个特色城市天气预报画面。画面分为上下两部分：\n\n上半部分：\n- 左侧显示城市地标（如上海东方明珠、北京故宫等）的剪影\n- 右侧显示当天的天气图标（晴天、雨天、多云等）\n- 中间显示当前温度，使用大号字体\n\n下半部分：\n- 显示未来5天的天气预报\n- 每天包含天气图标、最高/最低温度和星期几\n- 使用简洁的布局和柔和的配色\n\n整体风格：\n- 扁平化设计\n- 使用柔和的渐变色背景\n- 字体清晰易读\n- 图标简洁明了"
   },
@@ -772,7 +772,7 @@ window.GPT4O_EXAMPLES = [
     "name": "半透明玻璃质感变换",
     "author": "@egeberkina",
     "url": "https://x.com/egeberkina/status/1917631056980721743",
-    "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/examples/example_glass_transformation.jpeg",
+    "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/81/example.jpeg",
     "alt": "将普通物体转换为半透明玻璃质感",
     "prompt": "将上传的图片转换为半透明玻璃质感。具体要求：\n\n1. 材质效果：\n- 物体表面呈现半透明玻璃质感\n- 能看到内部结构和细节\n- 表面有柔和的光泽和反光\n- 边缘有轻微的折射效果\n\n2. 光照效果：\n- 使用柔和的室内灯光\n- 物体表面有高光点\n- 背景虚化，突出主体\n- 适当的光线折射\n\n3. 细节处理：\n- 保持原物体的形状和结构\n- 内部细节清晰可见\n- 表面有细微的纹理\n- 整体效果自然真实"
   },
