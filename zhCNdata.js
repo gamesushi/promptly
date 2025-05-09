@@ -806,7 +806,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-004",
     "name": "儿童涂色页插画（含彩色参考图）",
-    "prompt": "可替换提示词中的【】内容，例如适合人群和画面描述。*\n---",
+    "prompt": "一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考。适合人群：【6-9岁小朋友】画面描述：【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/88/case.png",
     "alt": "儿童涂色页插画（含彩色参考图）",
     "url": "https://x.com/dotey/status/1919522110395080838",
@@ -815,7 +815,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-005",
     "name": "字母与单词含义融合",
-    "prompt": "**提示词**\n在字母中融入单词的含义，将图形和字母巧妙融合在一起。\n单词：{ beautify }\n下面加上单词的简要说明\n*注意： 替换单词{ beautify }为想要融合的单词*\n---",
+    "prompt": "**提示词**\n在字母中融入单词的含义，将图形和字母巧妙融合在一起。\n单词：{ beautify }\n下面加上单词的简要说明\n*注意： 替换单词{ beautify }为想要融合的单词*",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/87/case.png",
     "alt": "字母与单词含义融合",
     "url": "https://x.com/dotey/status/1918529055340576812",
@@ -824,7 +824,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-006",
     "name": "双重曝光",
-    "prompt": "中文提示词由英文原文翻译而来，基本能达到预期效果，不过使用英文提示词可能会获得更好的结果。*\n---",
+    "prompt": "双重曝光，Midjourney 风格，融合、混合、叠加的双重曝光图像，双重曝光风格。一幅由 Yukisakura 创作的杰出杰作，展现了一个奇妙的双重曝光构图，将阿拉贡·阿拉松之子的剪影与生机勃勃春季里中土世界视觉上引人注目、崎岖的地貌和谐地交织在一起。沐浴阳光的松树林、山峰和一匹孤独的马穿过小径的景象从他身形的纹理中向外回响，增添了叙事和孤独的层次感。当简洁分明的单色背景保持着锐利的对比度时，美妙的张力逐渐形成，将所有焦点吸引到层次丰富的双重曝光上。其特点是阿拉贡剪影内部充满活力的全彩色方案，以及用情感的精确性描摹每个轮廓的清晰、刻意的线条。(Detailed:1.45). (Detailed background:1.4).中文提示词由英文原文翻译而来，基本能达到预期效果，不过使用英文提示词可能会获得更好的结果。*\n---",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/86/double_exposure.png",
     "alt": "双重曝光",
     "url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw",
@@ -833,7 +833,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-007",
     "name": "超现实交互场景",
-    "prompt": "替换提示词中的[主体1]和[主体2]为具体的主体描述，例如\"一个女孩\"和\"一朵玫瑰\"。*\n---",
+    "prompt": "一幅铅笔素描画，描绘了 [Subject 1] 与 [Subject 2] 互动的场景，其中 [Subject 2] 以逼真的全彩风格呈现，与 [Subject 1] 及背景的手绘素描风格形成超现实的对比。替换提示词中的[主体1]和[主体2]为具体的主体描述，例如\"一个女孩\"和\"一朵玫瑰\"。*\n---",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/85/case.png",
     "alt": "超现实交互场景",
     "url": "https://x.com/umesh_ai/status/1917444534239191544",
@@ -842,7 +842,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-008",
     "name": "动物硅胶腕托",
-    "prompt": "可替换提示词中的【🐼】为其他动物 Emoji。*\n---",
+    "prompt": "创建图片 一个可爱Q版的硅胶护腕托，外形基于【🐼】表情，采用柔软的食品级硅胶材质，表面为亲肤哑光质感，内部填充慢回弹棉，拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现出拥抱手腕的姿势，整体造型圆润软萌，颜色为【🐼】配色，风格治愈可爱，适合办公使用，背景为白色纯色，柔和布光，产品摄影风格，前视角或45度俯视，高清细节，突出硅胶质感与舒适功能可替换提示词中的【🐼】为其他动物 Emoji。*\n---",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/84/case.png",
     "alt": "动物硅胶腕托",
     "url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574",
@@ -851,7 +851,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-009",
     "name": "发光线条解剖图",
-    "prompt": "可替换提示词中的 `[SUBJECT]` (主体) 和 `[PART]` (部位)。*\n---",
+    "prompt": "一幅数字插画，描绘了一个 [SUBJECT]，其结构由一组发光、干净且纯净的蓝色线条勾勒而成。画面设定在深色背景之上，以突出 [SUBJECT] 的形态与特征。某个特定部位，如 [PART]，通过红色光晕加以强调，以表示该区域的重要性或特殊意义。整体风格兼具教育性与视觉吸引力，设计上仿佛是一种先进的成像技术。可替换提示词中的 `[SUBJECT]` (主体) 和 `[PART]` (部位)。*\n---",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/83/case.png",
     "alt": "发光线条解剖图",
     "url": "https://x.com/umesh_ai/status/1914644426334314545",
@@ -860,7 +860,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-PN-SNS-UNK-2025-019",
     "name": "定制Q版钥匙串",
-    "prompt": "提示词中的 `[参考图片]` 部分需要与上传的图片配合使用。*\n**需上传参考图片：** 需要上传一张人物或物体的照片作为钥匙串图案主体。\n**案例提交：** [Kong-F](https://github.com/Kong-F)\n---",
+    "prompt": "一张特写照片，展示一个被人手握住的可爱多彩钥匙串。钥匙串的造型为 [参考图片] 的 Q 版风格。钥匙串由柔软橡胶材质制成，带有粗黑描边，连接在一个小巧的银色钥匙圈上，背景为中性色调。提示词中的 `[参考图片]` 部分需要与上传的图片配合使用。*\n**需上传参考图片：** 需要上传一张人物或物体的照片作为钥匙串图案主体。\n**案例提交：** [Kong-F](https://github.com/Kong-F)\n---",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/73/example_keychain_chibi_composite.jpeg",
     "alt": "定制Q版钥匙串",
     "url": "https://x.com/azed_ai/status/1916521742052503804",
@@ -869,7 +869,7 @@ window.GPT4O_EXAMPLES = [
   {
     "id": "N-SNS-SNS-UNK-2025-038",
     "name": "“极其平凡”的iPhone自拍",
-    "prompt": "这个提示词旨在生成一张看起来非常随意、甚至有点“失败”的快照风格照片。*\n---",
+    "prompt": "请画一张极其平凡无奇的iPhone 自拍照，没有明确的主体或构图感，就像是随手一拍的快照。照片略带运动模糊，阳光或店内灯光不均导致轻微曝光过度。角度尴尬、构图混乱，整体呈现出一种刻意的平庸感-就像是从口袋里拿手机时不小心拍到的一张自拍。主角是陈奕迅和谢霆锋，晚上，旁边是香港会展中心，在香港维多利亚港旁边。这个提示词旨在生成一张看起来非常随意、甚至有点“失败”的快照风格照片。*\n---",
     "image": "https://cdn.jsdelivr.net/gh/jamez-bondos/awesome-gpt4o-images@main/cases/54/example_ordinary_selfie_eason_nicholas.jpeg",
     "alt": "“极其平凡”的iPhone自拍",
     "url": "https://x.com/jiamimaodashu/status/1912653073190879410",
